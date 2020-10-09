@@ -1,0 +1,23 @@
+{
+  "name": "@vident/types",
+  "version": "1.0.0-alpha.3",
+  "description": "Shared types for Vident",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": ">=3.9.7"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.6.1",
+    "@typescript-eslint/parser": "^3.6.1",
+    "@vident/eslint-config-common": "^1.0.1",
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.7"
+  }
+}
